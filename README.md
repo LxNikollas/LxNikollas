@@ -1,6 +1,9 @@
 <br />
 
-**About me**
+# Lexyu
+### Níkollas
+
+## **About me**
 
 - 💼 Developer at [Horizon](http://discord.gg/)
 
