@@ -1,13 +1,16 @@
 <br />
 
 # Lexyu
-### Níkollas
+
+- Níkollas Gregory
+- 17y
+- Student
 
 ## **About me**
 
 - 💼 Developer at [Horizon](http://discord.gg/)
 
-- ❤️ I love writing Lua, and building fun experiments on type-level
+- ❤️ I love writing Lua, and building experiments on type-level
 
 - 💬 Ask me about anything [here](https://github.com/LxNikollas/LxNikollas/issues)
 
