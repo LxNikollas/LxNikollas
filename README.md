@@ -2,24 +2,28 @@
 
 # Lexyu
 
-- Níkollas Gregory
-- 17y
-- Student
+- <strong>Níkollas Gregory</strong>
+- <strong>17y</strong>
 
 ## **About me**
 
-- 💼 Developer at [Horizon](http://discord.gg/)
+- 🔭 @Cyber's Main Developer
 
-- ❤️ I love writing Lua, and building experiments on type-level
+- 💼 Developer at [](http://cyberscripts.store/)
+
+- ❤️ Lua medium developer
 
 - 💬 Ask me about anything [here](https://github.com/LxNikollas/LxNikollas/issues)
 
-  <code><img height="20" src="/images/javascript.svg" /></code>
-<code><img height="20" src="/images/css3.svg" /></code>
-<code><img height="20" src="/images/html5.svg" /></code>
-<code><img height="20" src="/images/lua.svg" /></code>
-<code><img height="20" src="/images/typescript.svg" /></code>
-
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
 ![Nikollas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LxNikollas&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LxNikollas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
