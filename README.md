@@ -1,7 +1,7 @@
 <br />
 
 # Lexyu
-
+Cancel changes
 - <strong>Níkollas Gregory</strong>
 - <strong>17y</strong>
 
@@ -9,7 +9,7 @@
 
 - 🔭 @Cyber's Main Developer
 
-- 💼 Developer at [Cyber Scripts](http://cyberscripts.store/)
+- 💼 Developer at [Cyber Scripts](http://discord.cyberscripts.store/)
 
 - ❤️ Lua medium developer
 
