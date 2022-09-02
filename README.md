@@ -9,7 +9,7 @@
 
 - 🔭 @Cyber's Main Developer
 
-- 💼 Developer at [](http://cyberscripts.store/)
+- 💼 Developer at [Cyber Scripts](http://cyberscripts.store/)
 
 - ❤️ Lua medium developer
 
