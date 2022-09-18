@@ -1,5 +1,8 @@
 <br />
 
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=LxNikollas)](https://github.com/LxNikollas) [![GitHub followers](https://img.shields.io/github/followers/LxNikollas.svg?style=social&label=Follow)](https://github.com/LxNikollas?tab=followers)
+
+
 # Lexyu
 Cancel changes
 - <strong>Níkollas Gregory</strong>
