@@ -29,4 +29,13 @@ Cancel changes
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LxNikollas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+## **👀 Status**
+
+<div>
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LxNikollas" alt="GitHub Stats" /> <br/><br/>
+  <b><em>Ativdade de Programação (Ultimos 7 dias):</em></b> <br/>
+  </p>
+</div>
 
